@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T18:21:26.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="z4h8yW5MFiPbHsBo2ude" version="20.4.0" type="device"><diagram id="cVjqL9Euti9mxhFkRsou" name="Страница 1">3VlZj9s2EP41BpKHXeiwbPnR1zZA0mK7i6LZp4KxaEsNJao0vbb76zu8dFF2tI292gQwCHI4Q87Fj0N54M/Twy8M5fGvNMJk4DnRYeAvBp7nDj1vIH5OdFSUsT9WhA1LIs1UEh6Tf7EmOpq6SyK8rTFySglP8jpxRbMMr3iNhhij+zrbmpL6rjnaYIvwuELEpv6ZRDxW1NAbl/QPONnEZmd3NFEzKTLM2pJtjCK6r5D85cCfM0q56qWHOSbCecYvSu7uxGyhGMMZ7yLwx2TynD7cPyxu7sOP/oP7+zDgN1rZZ0R22mCtLD8aD+AIHKKHlPGYbmiGyLKkzhjdZREW2zgwKnk+UZoD0QXi35jzo44u2nEKpJinRM9uOWJ8KqIFhIxmYlGlh9j8pL2atKU7tsJnjAx03iC2wfwM37iICqQzpinm7AhyDBPEk+e6Hkjn1abgK10PHe39F0TCdfvwPPiSHT8L+dvADJ/0cnKwONRGRz26YHTcjtEJeo2OdU5kztohIwSQSYRmHyccP+ZI2r4HcKw7Xq+HGceH8y60TdYC3kQntobWkQaafYlTroHRuIJRQ+dKThraYALJMh2KdrYcgN2hI/tz2YYVylK2kn+mKAvDAy3YWRV0pKBr2oLNiGtmRRzLYcHvWZtOB97ciChVZxXxRX3NacUWr24XtDPZNrQNzDowNZdtw6jqdq5eU+vsVBziNfTxK4YV8vMK67KyeqtTGlKBXE3ZM6mo7lfsVE68e3k8zgdADe+sKaNti1HKm4VHFH1yNpAyQs0TC+ePN28jRr/iOSWUldfROiGkQUIk2WQwXMF5xUCfidOcQOkw1RNpEkXkFBbUofsCcGCO9bFeQFXQYOy0oIF/LTRwvTdRW1zwphp3vKnCXm+qSS91xCHhn02lAP2nsqSAUVlEiIGpId5A7dE1om6vpeHYOkhrwCEQkg4RDyJoCM7eqTcPOv6VZNB9byUCi2n6Zbd9neqkgUeeYwNS8TaqAlJ4NUCy65MneFr+2JgUds1gvz1ajduic0Lrle5pAhqXLHS93mJuharY8DuiF1jR+432AnUGttwaaJUYdn3Y6hr0E6ilT+iNcxt6I7e1anhZHkwF6FQYcpEV25Y00TsHXh0b/KDx6eIb/AZbyhRTGrx6UoZWTibrFiwOZhKtwYpgoYAZ9B+hVKAuEdWnlHX8NwXYfksF+bqAbZ/4yu2mXKZcC878Z0dlGQ/L0nKon3bF2Ds9taeMRKenB/705n11WsVyJMP3BW7j0Ub0lIJ0xwsNl2nOj7dInZBmeGtY9BpfDBpvBM8OsdsW4tHV7uRRLxCuq1XT71KtXhC+T93F//fyNQ/AUTtKFkuo+0JLlYH7XvQ2+14EvS9WLvg2eETRGVCWoMJjLIKcCUa6LrjleX5jZ3fo9312zWY/zwPf7fwe7PeJbz8IcwZH7l2RrfbTbxujXHTBLYgQTOiGoRS8l2OWgFbi+1V97r6c+FZ2r5MDNn/dXSjbxw3ImPSd7K5d6kmY6PH7f9io19p8dKEvfjAs/6hUEF3+3esv/wM=</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="cVjqL9Euti9mxhFkRsou" name="Страница 1">
+        <mxGraphModel dx="1118" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="U99vmRPRD-P8K3R1Q45t-5" target="U99vmRPRD-P8K3R1Q45t-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U99vmRPRD-P8K3R1Q45t-1" target="U99vmRPRD-P8K3R1Q45t-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="295" y="60" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-4" value="Формирование массива из строк, длина которых меньше либо равна 3 символа из имеющегося массива строк произвольной длины" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="10" width="700" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U99vmRPRD-P8K3R1Q45t-7" target="U99vmRPRD-P8K3R1Q45t-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U99vmRPRD-P8K3R1Q45t-7" target="U99vmRPRD-P8K3R1Q45t-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-7" value="for each item in array_in" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="200" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-14" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U99vmRPRD-P8K3R1Q45t-8" target="U99vmRPRD-P8K3R1Q45t-13" edge="1">
+                    <mxGeometry y="10" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-15" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U99vmRPRD-P8K3R1Q45t-8" target="U99vmRPRD-P8K3R1Q45t-7" edge="1">
+                    <mxGeometry x="-0.8261" y="10" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="350"/>
+                            <mxPoint x="520" y="240"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-8" value="if len( array_in[ i ] ) &amp;lt;= 3" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="310" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-5" value="array_in = [ &quot;hello&quot;, &quot;2&quot;, &quot;world&quot;, &quot;:-)&quot; ]&lt;br&gt;array_out = Empty.array" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="U99vmRPRD-P8K3R1Q45t-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="240" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="520" y="460"/>
+                            <mxPoint x="520" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-13" value="add array_in[ i ] in the end of array_out" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U99vmRPRD-P8K3R1Q45t-17" target="U99vmRPRD-P8K3R1Q45t-18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-17" value="print(array_out)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="U99vmRPRD-P8K3R1Q45t-18" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="390" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
